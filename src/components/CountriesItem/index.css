@@ -1,0 +1,20 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+}
+
+.country-name {
+  color: #ffffff;
+}
+
+.submit-btn {
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  cursor: pointer;
+}

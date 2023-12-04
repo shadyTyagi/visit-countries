@@ -1,0 +1,17 @@
+img {
+  width: 150px;
+}
+
+.item-name-btn-card {
+  display: flex;
+}
+
+button {
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 15px;
+  border: 2px solid #94a3b8;
+  background-color: transparent;
+  border-radius: 5px;
+  color: #ffffff;
+}
